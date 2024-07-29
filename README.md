@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @callmemahbub86
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-callmemahbub86/callmemahbub86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Mahbub Hasan
+- 👀 I’m interested in Physic
+- 🌱 I’m currently learning Diploma In Engineering
+- 💞️ I’m looking to collaborate on You
+- 📫 How to reach me. On Email.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Nothing
